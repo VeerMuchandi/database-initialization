@@ -235,12 +235,12 @@ exit
 
 ### Simplifying the patching process
 
-Editing yaml files can be tedious. So, I have included a bash script that patching a little easier. This is not a supported solution, but just a tiny workaound script.
+Editing yaml files can be tedious. So, I have included a bash script that patching a little easier. This is not a supported solution, but just a tiny workaround script that works on linux or Mac. 
 
 You can either clone this repository to get the scripts locally or download/copy the files individually.
 
 ```
-git clone 
+git clone https://github.com/VeerMuchandi/database-initialization.git
 ```
 
 **Step 1:** Create a file named `initsql.txt` and add your SQL in there. In this example, I am creating a table named `customer` and adding some data.
