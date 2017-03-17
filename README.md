@@ -1,4 +1,4 @@
-##Initializing a Database Pod
+## Initializing a Database Pod
 
 This blog explains how to initialize a database pod after it is created on OpenShift. I am using MYSQL database as an example. We can follow similar process with other databases.
 
